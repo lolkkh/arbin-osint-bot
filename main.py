@@ -37,7 +37,7 @@ from aiogram.utils.exceptions import MessageNotModified
 # ═══════════════════════════════════════════════════════════════════════════════
 
 import os as _os
-BOT_TOKEN = _os.getenv("BOT_TOKEN", "8799549920:AAHJRbikPXTR8cZlKV23P1dynV6G0r9MPqs")
+BOT_TOKEN = _os.getenv("BOT_TOKEN", "8676600538:AAG-J6g9btOJr_p5fyMGMG1WfX1WhDIjFjE")
 SUPER_ADMIN_ID = int(_os.getenv("SUPER_ADMIN_ID", "8749565729"))
 DB_PATH = "osint_master.db"
 
