@@ -1,6 +1,6 @@
 aiogram==2.25.2
 pydantic==1.10.13
-aiohttp
+aiohttp==3.9.5
 dnspython
 phonenumbers
 Pillow
